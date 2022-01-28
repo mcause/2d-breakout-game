@@ -1,0 +1,15 @@
+canvas { 
+    background: rgb(82, 75, 75);
+    padding:0;
+    -ms-flex-item-align:center;
+    box-shadow: 0 0 15px rgb(148, 11, 11);
+    border-radius: 20px;
+    margin: 120px auto;
+    display: block;
+}
+
+#drawBricks{
+    padding:0;
+    box-shadow: 0 0 30px black;
+    margin: 120px auto; 
+}
